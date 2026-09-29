@@ -271,7 +271,7 @@ The contents of `ds-project/` after rendering when `output-dir` is set to `repor
 
 :::
 
-The heirachical structure of the project is maintained in the output directory. 
+The hierachical structure of the project is maintained in the output directory. 
 So, if there was another document `provenance.qmd` inside the `data/` folder, it would render to `reports/data/provenance.html`.
 
 ::: {.callout-tip}
